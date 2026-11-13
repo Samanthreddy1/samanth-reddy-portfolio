@@ -1,0 +1,65 @@
+SAMANTH REDDY MORAPALLY
+Morapally.9502@gmail.com | +447553439933 | London, United Kingdom (willing to relocate)
+PROFILE
+Junior AI Engineer with hands-on experience building end-to-end machine learning and deep learning systems. Developed a CNN-based image classification model achieving 98% accuracy on 829 images (30 classes) and predictive models for finance and housing datasets. Strong in Python, data preprocessing, and model evaluation. Seeking junior AI/ML roles in the UK or remote.
+SKILLS
+AI/ML: Machine Learning, Deep Learning, Computer Vision, Model Evaluation Libraries: scikit-learn, TensorFlow/Keras, Pandas, NumPy, Matplotlib Programming: Python, Java, C, C++, SQL Web: HTML, CSS, JavaScript Tools: Git, GitHub, UML
+PROJECTS
+🔹 Deep Learning Image Classification
+•
+Built CNN models (MobileNetV2, ResNet) using TensorFlow/Keras (transfer learning)
+•
+Dataset: 829 images across 30 classes, applied augmentation and SMOTE
+•
+Achieved 98% accuracy with minimal overfitting (~2.5%)
+•
+Training: ~25 epochs, batch size 32
+•
+Skills: Python, TensorFlow, Keras, Computer Vision, Data Augmentation
+🔹 House Price Prediction
+•
+Developed regression models (Linear Regression, SVR, Random Forest)
+•
+Dataset: ~1000 samples, engineered 12+ features
+•
+Reduced MAE by ~18% using Random Forest
+•
+Skills: Python, scikit-learn, Pandas, Data Preprocessing, Regression
+🔹 Loan Prediction System
+•
+Built classification model using Random Forest (80/20 split)
+•
+Used 11 features with preprocessing and feature selection
+•
+Achieved ~86% accuracy and ~0.88 AUC
+•
+Skills: Python, scikit-learn, Classification, Data Analysis
+🔹 IoT Water Quality Monitoring System
+•
+Designed system using ESP32/Arduino + sensors (pH, turbidity, temperature, TDS, gas)
+•
+Real-time monitoring with 5–10 sec refresh rate
+•
+Cloud-based alert system
+•
+Skills: IoT, Embedded Systems, Arduino, Sensors, Data Monitoring
+🔹 Limbo Card Game (Software Engineering)
+•
+Built Python-based game using OOP and modular architecture
+•
+Designed UML diagrams and implemented game logic
+•
+Skills: Python, OOP, UML, Game Development
+🔹 Personal Portfolio Website
+•
+Developed responsive website using HTML, CSS, JavaScript
+•
+Integrated contact form and deployed using GitHub Pages
+•
+Skills: HTML, CSS, JavaScript, Responsive Design, GitHub
+EDUCATION
+MSc Advanced Computer Science Middlesex University Expected: 2026
+B.Tech Computer Science & Engineering Sree Dattha Institute of Engineering 2019 – 2023
+DECLARATION
+I confirm that the information provided above is accurate and complete to the best of my knowledge and belief.
+Samanth Reddy Morapally
